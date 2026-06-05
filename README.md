@@ -31,34 +31,6 @@ Passionate about building real-world applications and continuously improving my 
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalaBhargav37&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalaBhargav37&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalaBhargav37&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PalaBhargav37&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=PalaBhargav37&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ### ✨ Current Focus
 
 - Java Backend Development
